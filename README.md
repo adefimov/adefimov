@@ -4,7 +4,7 @@
 also :swimming_man: :biking_man: :running:
 - 👀 I’m looking to collaborate on testing web and mobile 
 - :books: I’m currently learning Java and AQA at QA.GURU
-- :mailbox_with_mail: How to reach me ...
+- :mailbox_with_mail: How to reach me ... [just click](https://www.linkedin.com/in/efimovalexey/)
 
 <!---
 adefimov/adefimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
