@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 also :swimming_man: :biking_man: :running:
 - 👀 I’m looking to collaborate on testing web and mobile 
 - :books: I’m currently learning Java and AQA at QA.GURU
-- :mailbox_with_mail: How to reach me ...[![](/src/img/linkedin.svg&height=48)](https://www.linkedin.com/in/efimovalexey/)
+- :mailbox_with_mail: How to reach me ...[![](https://img.shields.io/badge/LinkedIn-blue?tab=followers?logo=github&style=for-the-badge)](https://www.linkedin.com/in/efimovalexey/)
 
 ![adefimov's GitHub stats](https://github-readme-stats.vercel.app/api?username=adefimov&show_icons=true&theme=vue) 
